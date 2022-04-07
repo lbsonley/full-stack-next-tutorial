@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktutorial=self.webpackChunktutorial||[]).push([[824],{6838:function(t){t.exports=JSON.parse('{"allTagsPath":"/full-stack-next-tutorial/blog/tags","name":"hola","count":1,"permalink":"/full-stack-next-tutorial/blog/tags/hola"}')}}]);
