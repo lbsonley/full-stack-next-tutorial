@@ -1,6 +1,6 @@
 ---
 id: backend-orientation
-title: Project Orientation
+title: Backend Orientation
 tags:
   - prisma
   - graphql

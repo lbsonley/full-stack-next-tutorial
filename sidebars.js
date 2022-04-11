@@ -36,8 +36,8 @@ const sidebars = {
         },
         {
           type: 'doc',
-          id: 'project-setup/orientation',
-          label: "Orientation"
+          id: 'project-setup/backend-orientation',
+          label: "Backend Orientation"
         },
         {
           type: 'doc',
