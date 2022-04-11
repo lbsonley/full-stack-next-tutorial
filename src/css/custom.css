@@ -37,3 +37,8 @@
 [data-theme='dark'] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
+
+.docPage_node_modules-\@docusaurus-theme-classic-lib-next-theme-DocPage-styles-module {
+  max-width: 1280px;
+  margin: 0 auto;
+}
